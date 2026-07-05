@@ -1,0 +1,52 @@
+[
+  {
+    "id": "doc1",
+    "title": "Introduction to Machine Learning",
+    "text": "Machine learning is a field of study that gives computers the ability to learn from data without being explicitly programmed. Common approaches include supervised learning, unsupervised learning, and reinforcement learning."
+  },
+  {
+    "id": "doc2",
+    "title": "A Brief History of the Search Engine",
+    "text": "Early search engines relied on simple keyword matching. Modern search engines use inverted indexes, ranking functions such as BM25, and machine learning to order results by relevance."
+  },
+  {
+    "id": "doc3",
+    "title": "Cats and Dogs as Household Pets",
+    "text": "Cats are independent animals that groom themselves and often prefer quiet spaces. Dogs are social animals that thrive on companionship and regular exercise with their owners."
+  },
+  {
+    "id": "doc4",
+    "title": "Understanding Databases",
+    "text": "A database index speeds up data retrieval at the cost of additional storage and slower writes. B-trees and hash indexes are two common index structures used by relational databases."
+  },
+  {
+    "id": "doc5",
+    "title": "Neural Networks Explained",
+    "text": "A neural network is composed of layers of interconnected nodes. Training a neural network involves adjusting weights through backpropagation to minimize a loss function on labeled data."
+  },
+  {
+    "id": "doc6",
+    "title": "The Basics of Gardening",
+    "text": "Healthy soil, consistent watering, and adequate sunlight are the foundations of a productive garden. Rotating crops each season helps prevent nutrient depletion and reduces pest pressure."
+  },
+  {
+    "id": "doc7",
+    "title": "How Ranking Functions Work",
+    "text": "Ranking functions such as term frequency inverse document frequency and BM25 estimate how relevant a document is to a query by combining term frequency with how rare a term is across the corpus."
+  },
+  {
+    "id": "doc8",
+    "title": "Dogs in Working Roles",
+    "text": "Dogs have been trained for centuries to herd livestock, guard property, and assist people with disabilities. Their strong sense of smell also makes them useful for search and rescue work."
+  },
+  {
+    "id": "doc9",
+    "title": "An Overview of Distributed Systems",
+    "text": "Distributed systems coordinate multiple independent computers to behave like a single coherent system. Consensus algorithms help these systems agree on shared state even when some nodes fail."
+  },
+  {
+    "id": "doc10",
+    "title": "Cooking with Fresh Herbs",
+    "text": "Fresh herbs such as basil, thyme, and cilantro add bright flavor to a dish when added near the end of cooking, since prolonged heat can destroy their delicate aromatic oils."
+  }
+]
